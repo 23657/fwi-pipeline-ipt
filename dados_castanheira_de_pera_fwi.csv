@@ -1,2 +1,4 @@
 data,hora,local,temperatura,humidade,intensidadeVento,precAcumulada,descDirVento,radiacao,fmc,fmc_teorico_pratico,ffmc_pratico,isi_pratico,s_pratico,dsr_pratico,fwi_pratico,ffmc0,dmc0,dc0,ffmc_teorico_12h,fmc_teorico_12h,isi_teorico_12h,bui_12h,s_teorico_12h,dsr_teorico_12h,fwi_teorico_12h,hora_ref,precAcumulada_24h
-2026-07-06,10,Castanheira de Pera,28.8,54.0,1.1,0.0,SW,2322.6,6.302,13.09,94.46,8.5,9.92,1.58,9.92,87.32,9.23,23.89,87.32,13.77,3.08,9.39,3.07,0.2,3.07,10,0.0
+2026-07-06,8,Castanheira de Pera,22.5,67.0,0.7,0.0,N,972.3,6.569,14.48,94.19,8.03,9.1,1.35,9.1,,,,,,,,,,,,0.0
+2026-07-06,9,Castanheira de Pera,25.8,58.0,0.8,0.0,SW,1629.7,6.6,13.72,94.16,8.03,9.31,1.41,9.31,,,,,,,,,,,,0.0
+2026-07-06,10,Castanheira de Pera,28.8,54.0,1.1,0.0,SW,2322.6,6.302,13.09,94.46,8.5,9.92,1.58,9.92,87.32,9.23,23.89,87.32,13.77,3.08,9.39,3.07,0.2,3.07,10.0,0.0

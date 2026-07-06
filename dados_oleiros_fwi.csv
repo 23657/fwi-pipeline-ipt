@@ -1,2 +1,4 @@
 data,hora,local,temperatura,humidade,intensidadeVento,precAcumulada,descDirVento,radiacao,fmc,fmc_teorico_pratico,ffmc_pratico,isi_pratico,s_pratico,dsr_pratico,fwi_pratico,ffmc0,dmc0,dc0,ffmc_teorico_12h,fmc_teorico_12h,isi_teorico_12h,bui_12h,s_teorico_12h,dsr_teorico_12h,fwi_teorico_12h,hora_ref,precAcumulada_24h
-2026-07-06,10,Oleiros,35.8,23.0,2.9,0.0,SE,2507.1,6.761,5.53,94.0,8.73,12.38,2.34,12.38,94.41,12.67,25.15,94.41,6.35,9.24,12.56,10.55,1.76,10.55,10,0.0
+2026-07-06,8,Oleiros,33.2,29.0,0.0,0.0,---,1253.7,7.144,6.3,93.62,7.16,10.27,1.68,10.27,,,,,,,,,,,,0.0
+2026-07-06,9,Oleiros,35.5,25.0,1.9,0.0,S,2096.4,7.079,5.97,93.69,7.95,11.41,2.02,11.41,,,,,,,,,,,,0.0
+2026-07-06,10,Oleiros,35.8,23.0,2.9,0.0,SE,2507.1,6.761,5.53,94.0,8.73,12.38,2.34,12.38,94.41,12.67,25.15,94.41,6.35,9.24,12.56,10.55,1.76,10.55,10.0,0.0
