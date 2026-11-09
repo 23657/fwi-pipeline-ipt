@@ -12946,4 +12946,5 @@ data,hora,local,temperatura,humidade,intensidadeVento,precAcumulada,descDirVento
 2026-11-08,23,Ferreira do Zêzere,19.0,87.0,5.5,0.0,SE,11.3,,meteorologico,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.2
 2026-11-09,0,Ferreira do Zêzere,19.3,87.0,6.2,0.0,SE,9.1,,meteorologico,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.2
 2026-11-09,1,Ferreira do Zêzere,19.5,86.0,6.2,0.0,SE,2.7,,meteorologico,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.2
-2026-11-09,2,Ferreira do Zêzere,17.1,97.0,4.11,3.5,SE,0.0,,meteorologico,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.7
+2026-11-09,2,Ferreira do Zêzere,19.6,86.0,6.6,0.0,SE,6.1,,meteorologico,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.2
+2026-11-09,3,Ferreira do Zêzere,16.8,99.0,3.3,3.5,S,0.0,,meteorologico,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.7
