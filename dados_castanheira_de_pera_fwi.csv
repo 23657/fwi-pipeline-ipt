@@ -12999,4 +12999,5 @@ data,hora,local,temperatura,humidade,intensidadeVento,precAcumulada,descDirVento
 2026-11-11,4,Castanheira de Pera,18.2,80.0,2.6,0.1,SW,0.0,,meteorologico,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.4
 2026-11-11,5,Castanheira de Pera,17.9,83.0,1.4,0.2,W,0.0,,meteorologico,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.5
 2026-11-11,6,Castanheira de Pera,17.6,88.0,1.5,0.6,S,0.0,,meteorologico,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.3
-2026-11-11,7,Castanheira de Pera,14.6,96.0,1.44,1.4,SE,0.0,,meteorologico,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.6
+2026-11-11,7,Castanheira de Pera,17.1,92.0,1.2,1.1,NW,0.0,,meteorologico,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.3
+2026-11-11,8,Castanheira de Pera,15.1,94.0,1.52,1.4,SE,10.8,,meteorologico,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6.7
